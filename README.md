@@ -11,3 +11,4 @@ The raspberry pi is a single board computer. This means everything the board req
 
 - [ ] [Raspberry Pi First Time Setup](https://www.youtube.com/watch?v=y45hsd2AOpw)  
 - [ ] [Remote Access to Your Pi](https://www.youtube.com/watch?v=IfzBPi4FHpI)
+- [ ] [How to Connect Camera to Raspberry Pi 4,3,1 Module B+ ](https://www.youtube.com/watch?v=IfzBPi4FHpI)
