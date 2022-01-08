@@ -1,5 +1,5 @@
 # Detect Objects with Open CV
-In this project, we get to perform Object Recognition using a raspberry pi 4 with the  raspberry pi's compatible camera module.
+In this project, we get to perform Object Recognition using a raspberry pi 4 and a compatible raspberry pi camera module.
 Libraires and other resources are attached below.
 
 <img src="Images/R.png" width="180" height="200"> <img src="Images/newcam.png" width="200" height="250"><img src="Images/pi2.png" width="360" height="250"><img src="Images/pi1.png" width="205" height="190">
