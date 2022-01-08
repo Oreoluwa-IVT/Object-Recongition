@@ -45,3 +45,8 @@ pip install opencv-contrib-python
 ```
 pip install caer
 ```
+##### On Raspberry Pi Terminal
+
+```
+sudo apt-get install libqtgui4 libqtwebkit4 libqt4-test
+```
