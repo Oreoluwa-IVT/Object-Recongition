@@ -35,4 +35,13 @@ sudo apt-get install python3
 
 
 ## Adding OpenCV Libraries
-In this project , we're going to use two packages. Caer and OpenCV Contrib
+In this project ,we use two packages. Caer and OpenCV Contrib.
+
+##### OpenCV
+```
+pip install opencv-contrib-python
+```
+##### Caer
+```
+pip install caer
+```
