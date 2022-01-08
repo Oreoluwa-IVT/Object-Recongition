@@ -19,7 +19,7 @@ The raspberry pi is a single board computer. This means everything the board req
 ## Setting Up OpenCV
 To run the OpenCV library, we have to make sure we're running at least python 3.7 preferrably.
 
-#### Check your Python Version
+#### <img src="Images/python.png" height=30 width=30> Check your Python Version
 Use the command below 
 
 ```C
