@@ -50,3 +50,10 @@ pip install caer
 ```
 sudo apt-get install libqtgui4 libqtwebkit4 libqt4-test
 ```
+
+```
+sudo apt-get install libatlas-base-dev
+```
+```
+sudo apt-get install libjasper-dev
+```
