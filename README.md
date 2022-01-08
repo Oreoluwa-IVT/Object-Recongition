@@ -9,5 +9,5 @@ The raspberry pi is a single board computer. This means everything the board req
 
 #### Help Links
 
-- [ ] [Raspberry First Time Setup](https://www.youtube.com/watch?v=y45hsd2AOpw)  
-- [ ] 
+- [ ] [Raspberry Pi First Time Setup](https://www.youtube.com/watch?v=y45hsd2AOpw)  
+- [ ] [Remote Access to Your Pi](https://www.youtube.com/watch?v=IfzBPi4FHpI)
