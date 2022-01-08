@@ -13,3 +13,26 @@ The raspberry pi is a single board computer. This means everything the board req
 - [ ] [Remote Access to Your Pi](https://www.youtube.com/watch?v=IfzBPi4FHpI)
 - [ ] [How to Connect Camera to Raspberry Pi 4,3,1 Module B+ ](https://www.youtube.com/watch?v=IfzBPi4FHpI)
 - [ ] [How to Connect Camera to Raspbery  Pi Zero , Zero W](https://www.youtube.com/watch?v=oo0A_yRrIxQ)
+
+
+
+## Setting Up OpenCV
+To run the OpenCV library, we have to make sure we're running at least python 3.7 preferrably.
+
+#### Check your Python Version
+Use the command below 
+
+```C
+python --version 
+or
+python3 --version
+```
+
+#### Install Python3 
+```C 
+sudo apt-get install python3
+```
+
+
+## Adding OpenCV Libraries
+In this project , we're going to use two packages. Caer and OpenCV Contrib
